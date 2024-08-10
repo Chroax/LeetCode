@@ -31,10 +31,10 @@ The repository is neatly organized to make navigation easy. Problems are categor
 └── 📁 Hard
 \`\`\`
 
-Each directory contains:
+Each Class contains:
 
-- **Problem Statement:** A markdown file summarizing the problem.
-- **Solution Code:** The actual implementation in one or more programming languages.
+- **Problem Statement:** Summarizing the problem.
+- **Solution Code:** The actual implementation in Java programming languages.
 - **Explanatory Notes:** Additional notes explaining the approach and logic used.
 
 ---
