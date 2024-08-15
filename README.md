@@ -16,13 +16,13 @@ Welcome to the **LeetCode Solutions** repository! 🚀 This repository is a cura
 
 ## ✨ Introduction
 
-LeetCode is a powerful platform to practice coding skills and prepare for technical interviews. This repository contains a collection of well-documented solutions to a variety of LeetCode problems. Each solution is designed to be clear, concise, and easy to understand, with detailed explanations provided where necessary.
+LeetCode is a powerful platform to practice coding skills and prepare for technical interviews. This repository contains a collection of well-documented solutions to a variety of LeetCode problems. Each solution is designed to be clear, concise, and algorithms.easy to understand, with detailed explanations provided where necessary.
 
 ---
 
 ## 📂 Project Structure
 
-The repository is neatly organized to make navigation easy. Problems are categorized based on difficulty levels:
+The repository is neatly organized to make navigation algorithms.easy. Problems are categorized based on difficulty levels:
 
 \`\`\`
 📦 leetcode-solutions

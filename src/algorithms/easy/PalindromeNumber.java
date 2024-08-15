@@ -9,7 +9,7 @@
  *                 a new number. Finally, compares the reversed number with the original number to determine if they are the same.
  * */
 
-package easy;
+package algorithms.easy;
 
 public class PalindromeNumber {
     public boolean isPalindrome(int x) {

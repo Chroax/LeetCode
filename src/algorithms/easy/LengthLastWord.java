@@ -7,7 +7,7 @@
  * @Explanation  : The method calculates the length of the last word in a string by splitting the string into words
  *                 and returning the length of the last word in the resulting array.
  * */
-package easy;
+package algorithms.easy;
 
 import java.util.ArrayList;
 import java.util.List;

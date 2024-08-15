@@ -12,7 +12,7 @@
  *                 continues until the end of the array
  * */
 
-package easy;
+package algorithms.easy;
 
 public class RemoveElement {
     public int removeElement(int[] nums, int val) {

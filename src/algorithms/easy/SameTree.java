@@ -15,7 +15,7 @@
  *                 values.
  * */
 
-package easy;
+package algorithms.easy;
 
 public class SameTree {
     class TreeNode {

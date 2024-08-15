@@ -8,7 +8,7 @@
  *                 the sum of the bits and the carry, determines the result bit to be placed in the result string, and updates the
  *                 carry for the next bit. If there is a carry left after processing all bit positions, prepends a '1' to the result.
  * */
-package easy;
+package algorithms.easy;
 
 public class AddBinary {
     public String addBinary(String a, String b) {

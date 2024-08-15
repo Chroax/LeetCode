@@ -13,7 +13,7 @@
  *                 elements from list1 and list2, inserting the smaller element into the appropriate position in nums1. If there are
  *                 remaining elements in either list after the initial merge process, those elements are copied to the end of nums1.
  * */
-package easy;
+package algorithms.easy;
 
 import java.util.ArrayList;
 import java.util.List;

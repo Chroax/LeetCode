@@ -14,7 +14,7 @@
 *                 returns the pair of indices.
 * */
 
-package easy;
+package algorithms.easy;
 
 import java.util.HashMap;
 

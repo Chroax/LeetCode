@@ -8,7 +8,7 @@
  * @Explanation  : Binary search algorithm.
  * */
 
-package easy;
+package algorithms.easy;
 
 public class SearchInsertPosition {
     public int searchInsert(int[] nums, int target) {

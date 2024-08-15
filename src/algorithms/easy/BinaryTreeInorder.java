@@ -9,7 +9,7 @@
  *                 the right node. This process repeats until all nodes have been visited in in-order,
  *                 at which point the traversal list, contains the nodes in the correct order
  * */
-package easy;
+package algorithms.easy;
 
 import java.util.ArrayList;
 import java.util.List;

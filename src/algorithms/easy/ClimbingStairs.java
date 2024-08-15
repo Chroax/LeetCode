@@ -10,7 +10,7 @@
  *                 come from either the step before it (single step) or two steps before it (double step). After updating, prev is
  *                 set to the old value of ways for the next iteration.
  * */
-package easy;
+package algorithms.easy;
 
 public class ClimbingStairs {
     public int climbStairs(int n) {

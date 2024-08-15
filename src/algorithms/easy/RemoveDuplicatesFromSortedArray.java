@@ -13,7 +13,7 @@
  *                 of the array
  * */
 
-package easy;
+package algorithms.easy;
 
 public class RemoveDuplicatesFromSortedArray {
     public int removeDuplicates(int[] nums) {

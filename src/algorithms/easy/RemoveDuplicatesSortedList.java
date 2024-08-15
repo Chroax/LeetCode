@@ -10,7 +10,7 @@
  *                 next reference of the current node to the node after the duplicate. If the values are different, moves the iterate
  *                 pointer to the next node.
  * */
-package easy;
+package algorithms.easy;
 
 public class RemoveDuplicatesSortedList {
     class ListNode {

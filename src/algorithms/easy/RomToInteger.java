@@ -11,7 +11,7 @@
  *                 It uses a brute-force approach to manually handle Roman numeral rules.
  * */
 
-package easy;
+package algorithms.easy;
 
 public class RomToInteger {
     public int romanToInt(String s) {

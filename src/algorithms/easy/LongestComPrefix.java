@@ -10,7 +10,7 @@
  *                 Finally, it returns the longest common prefix that was found.
  * */
 
-package easy;
+package algorithms.easy;
 
 public class LongestComPrefix {
     public String longestCommonPrefix(String[] strs) {

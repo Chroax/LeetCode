@@ -12,7 +12,7 @@
  *                 between n and x / n is less than the specified epsilon, indicating that the guess is close enough to the actual
  *                 square root.
  * */
-package easy;
+package algorithms.easy;
 
 public class SqrtX {
     public int mySqrt(int x) {

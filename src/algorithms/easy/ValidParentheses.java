@@ -11,7 +11,7 @@
  *                 is popped from the stack; otherwise, the string is deemed invalid.
  * */
 
-package easy;
+package algorithms.easy;
 
 import java.util.Stack;
 

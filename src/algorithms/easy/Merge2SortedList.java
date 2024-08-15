@@ -10,7 +10,7 @@
  *                 remaining node of the other list to the merge list.
  * */
 
-package easy;
+package algorithms.easy;
 
 public class Merge2SortedList {
     class ListNode {

@@ -8,7 +8,7 @@
  *                 with a marker, splitting the string, and calculating the position based on the accumulated length of
  *                 preceding segments. It returns the index of the first occurrence or -1 if the substring is not found.
  * */
-package easy;
+package algorithms.easy;
 
 public class FirstOccurrenceStr {
     public int strStr(String haystack, String needle) {

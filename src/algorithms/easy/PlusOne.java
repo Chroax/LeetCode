@@ -12,7 +12,7 @@
  *                 with an extra leading 1. This handles cases like adding one to numbers like 999, resulting in 1000.
  * */
 
-package easy;
+package algorithms.easy;
 
 import java.util.Arrays;
 
